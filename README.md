@@ -4,6 +4,11 @@ AWS Lambda to copy an object created in one S3 bucket to another.
 
 ## How to configure?
 
+Get all the dependencies:
+```bash
+go get -d ./...
+```
+
 Generate a binary file (linux OS):
 ```bash
 GOOS=linux go build copy_to_another_s3_bucket.go
