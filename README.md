@@ -1,6 +1,6 @@
 # Copy to another S3 Bucket
 
-AWS Lambda to copy an object created in one bucket to another.
+AWS Lambda to copy an object created in one S3 bucket to another.
 
 ## How to configure?
 
